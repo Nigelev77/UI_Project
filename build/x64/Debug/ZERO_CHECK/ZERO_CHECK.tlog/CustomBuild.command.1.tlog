@@ -1,0 +1,10 @@
+^C:\DEV\NEWPROJECT\BUILD\CMAKEFILES\3C81CBE065B511E16E2C1BB9FA773E88\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/dev/NewProject -BC:/dev/NewProject/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/dev/NewProject/build/TerrainEditor.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

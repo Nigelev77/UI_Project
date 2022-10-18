@@ -1,0 +1,3 @@
+C:/dev/NewProject/build/CMakeFiles/TerrainEditor.dir
+C:/dev/NewProject/build/CMakeFiles/ALL_BUILD.dir
+C:/dev/NewProject/build/CMakeFiles/ZERO_CHECK.dir

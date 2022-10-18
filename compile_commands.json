@@ -1,0 +1,12 @@
+[
+{
+  "directory": "C:/dev/NewProject/build",
+  "command": "C:/msys64/mingw64/bin/cc.exe  @CMakeFiles/TerrainEditor.dir/includes_C.rsp  -o CMakeFiles/TerrainEditor.dir/libs/GLAD/glad.c.obj -c C:/dev/NewProject/libs/GLAD/glad.c",
+  "file": "C:/dev/NewProject/libs/GLAD/glad.c"
+},
+{
+  "directory": "C:/dev/NewProject/build",
+  "command": "C:/msys64/mingw64/bin/c++.exe  @CMakeFiles/TerrainEditor.dir/includes_CXX.rsp  -o CMakeFiles/TerrainEditor.dir/main.cpp.obj -c C:/dev/NewProject/main.cpp",
+  "file": "C:/dev/NewProject/main.cpp"
+}
+]

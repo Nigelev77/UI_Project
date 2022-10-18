@@ -1,0 +1,2 @@
+#define TerrainEditor_VERSION_MAJOR @TerrainEditor_VERSION_MAJOR@
+#define TerrainEditor_VERSION_MINOR @TerrainEditor_VERSION_MINOR@
